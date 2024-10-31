@@ -1,5 +1,5 @@
 program soalutsno1; //nama program 
-uses crt; // untuk clearscreen
+uses crt; 
 var 
     km,total,total1:real; //variabel
     prem:string; //variabel
